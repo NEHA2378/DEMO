@@ -16,4 +16,6 @@ int main()
     
     const auto area_of_circle = pi*radius*radius;
     cout<<" The area of circle is :"<< area_of_circle<<" square units."<<endl;
+    
+    return 0;
 }
